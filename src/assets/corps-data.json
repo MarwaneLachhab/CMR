@@ -1,0 +1,21 @@
+[
+    {
+      "crp_id": 1,
+      "crp_code": "crp1",
+      "crp_designation": "corps CT",
+      "crp_limite_age": 63
+    },
+    {
+      "crp_id": 3,
+      "crp_code": "MAG",
+      "crp_designation": "MAGISTRAT",
+      "crp_limite_age": 66
+    },
+    {
+      "crp_id": 4,
+      "crp_code": "DGSN",
+      "crp_designation": "STATUT DGSN",
+      "crp_limite_age": 60
+    }
+  ]
+  

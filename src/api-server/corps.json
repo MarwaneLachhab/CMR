@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "code": "crp1",
+    "designation": "corps CT",
+    "limite_age": 67
+  },
+  {
+    "id": 3,
+    "code": "MAG",
+    "designation": "MAGESITRAT",
+    "limite_age": 66
+  },
+  {
+    "id": 4,
+    "code": "DGSN",
+    "designation": "STATUT DGSN",
+    "limite_age": 601
+  },
+  {
+    "id": 5,
+    "code": "SUPA",
+    "designation": "MENSUP_ANCIEN_CORPS",
+    "limite_age": 66
+  },
+  {
+    "id": 6,
+    "code": "SUPN",
+    "designation": "STAUT DE L ENS SUPERIEUR",
+    "limite_age": 65
+  },
+  {
+    "id": 7,
+    "code": "SUPA",
+    "designation": "STATUT DE LENS SUPERIEUR AUTRE QUE MINISTERE",
+    "limite_age": 65
+  },
+  {
+    "id": 8,
+    "code": "SART",
+    "designation": "STAUT DE LENS SUPERIEUR ANRT",
+    "limite_age": 65
+  },
+  {
+    "id": 9,
+    "code": "SART",
+    "designation": "STAUT DE LENS SUPERIEUR FORMATION CADRES",
+    "limite_age": 65
+  },
+  {
+    "code": "SEC",
+    "designation": "Security agent",
+    "limite_age": 65,
+    "id": 10
+  },
+  {
+    "code": "2938",
+    "designation": "555",
+    "limite_age": 0,
+    "id": 11
+  },
+  {
+    "code": "2938",
+    "designation": "scriptalertscript",
+    "limite_age": 5,
+    "id": 12
+  }
+]
